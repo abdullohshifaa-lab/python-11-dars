@@ -1,4 +1,5 @@
 import os
 os.system("cls")
 
-print("salom men qoshildim")
+for i in range(1,11):
+    print(f"{i}: salom")
